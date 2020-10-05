@@ -6,8 +6,8 @@ namespace Open_Lab_02._01
     {
         public double[] Create5Numbers()
         {
-           double[] number = {10, 20, 30, 40, 50};
-            return number;
+           double[] value = {10, 20, 30, 40, 50};
+            return value;
             
         }
 
